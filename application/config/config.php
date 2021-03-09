@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/';
+$config['base_url'] = 'https://github.com/maycoll611/ecoman/';
 
 /*
 |--------------------------------------------------------------------------
@@ -35,7 +35,7 @@ $config['base_url'] = 'http://localhost/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'ecoman';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
